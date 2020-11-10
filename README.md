@@ -1,6 +1,6 @@
 # ACME http file server
 
-Super simple express fileserver as needed for ACME challenge to obtain Let's Encrypt certifificate, with the folder structure already in place.
+Super simple express fileserver as needed for ACME challenge to obtain Let's Encrypt certificate, with the folder structure already in place.
 
 Usage:
 
